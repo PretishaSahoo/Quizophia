@@ -10,18 +10,16 @@ An interactive quiz application built using Flutter that allows users to test th
 
 <h2>Screenshots 📸</h2>
 
-<h3>Welcome Screen</h3>
-<img src="./assets/s1.jpeg" alt="Welcome Screen" height="300">
+## Screenshots 📸  
 
-<h3>Quiz Category Selection</h3>
-<img src="./assets/s2.jpeg" alt="Categories" height="300">
-<img src="./assets/s3.jpeg" alt="More Categories" height="300">
+<div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="./assets/s1.jpeg" alt="Welcome Screen" height="200">
+    <img src="./assets/s2.jpeg" alt="Categories" height="200">
+    <img src="./assets/s3.jpeg" alt="More Categories" height="200">
+    <img src="./assets/s4.jpeg" alt="Quiz Question" height="200">
+    <img src="./assets/s5.jpeg" alt="Quiz Score" height="200">
+</div>
 
-<h3>Quiz in Action</h3>
-<img src="./assets/s4.jpeg" alt="Quiz Question" height="300">
-
-<h3>Quiz Completion</h3>
-<img src="./assets/s5.jpeg" alt="Quiz Score" height="300">
 
 
 ## Installation & Usage 🚀

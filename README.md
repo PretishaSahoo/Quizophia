@@ -8,19 +8,21 @@ An interactive quiz application built using Flutter that allows users to test th
 - ✅ **Instant Feedback**: Correct answers are highlighted in green, and incorrect ones in red.  
 - 📊 **Score Tracking**: See your score at the end of the quiz.  
 
-## Screenshots 📸
-### Welcome Screen  
-![Welcome Screen](./assets/s1.jpeg)  
+<h2>Screenshots 📸</h2>
 
-### Quiz Category Selection  
-![Categories](./assets/s2.jpeg)  
-![More Categories](./assets/s3.jpeg)  
+<h3>Welcome Screen</h3>
+<img src="./assets/s1.jpeg" alt="Welcome Screen" height="300">
 
-### Quiz in Action  
-![Quiz Question](./assets/s4.jpeg)  
+<h3>Quiz Category Selection</h3>
+<img src="./assets/s2.jpeg" alt="Categories" height="300">
+<img src="./assets/s3.jpeg" alt="More Categories" height="300">
 
-### Quiz Completion  
-![Quiz Score](./assets/s5.jpeg)    
+<h3>Quiz in Action</h3>
+<img src="./assets/s4.jpeg" alt="Quiz Question" height="300">
+
+<h3>Quiz Completion</h3>
+<img src="./assets/s5.jpeg" alt="Quiz Score" height="300">
+
 
 ## Installation & Usage 🚀
 1. **Clone the repository**  

@@ -1,16 +1,50 @@
-# quiz
+# Quizophia 📚🎉  
+An interactive quiz application built using Flutter that allows users to test their knowledge across various categories like Science, History, Technology, Sports, and Geography.
 
-A new Flutter project.
+## Features ✨
+- 🏆 **Engaging UI**: A sleek, dark-themed interface with vibrant category cards.  
+- 📚 **Multiple Categories**: Choose from Science, History, Technology, Sports, and Geography.  
+- 🗘️ **Interactive Questions**: Each quiz consists of multiple-choice questions.  
+- ✅ **Instant Feedback**: Correct answers are highlighted in green, and incorrect ones in red.  
+- 📊 **Score Tracking**: See your score at the end of the quiz.  
 
-## Getting Started
+## Screenshots 📸
+### Welcome Screen  
+![Welcome Screen](./assets/s1.jpeg)  
 
-This project is a starting point for a Flutter application.
+### Quiz Category Selection  
+![Categories](./assets/s2.jpeg)  
+![More Categories](./assets/s3.jpeg)  
 
-A few resources to get you started if this is your first Flutter project:
+### Quiz in Action  
+![Quiz Question](./assets/s4.jpeg)  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Quiz Completion  
+![Quiz Score](./assets/s5.jpeg)    
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation & Usage 🚀
+1. **Clone the repository**  
+   ```sh
+   git clone https://github.com/PretishaSahoo/Quizophia.git
+   cd quizophia
+   ```
+2. **Install dependencies**  
+   ```sh
+   flutter pub get
+   ```
+3. **Run the app**  
+   ```sh
+   flutter run
+   ```
+
+## Tech Stack 🛠️  
+- **Flutter** - Cross-platform framework  
+- **Dart** - Programming language  
+- **Provider** - State management  
+
+## Contributing 🤝  
+Contributions are welcome! Feel free to open issues and pull requests.
+
+## License 📝  
+This project is licensed under the MIT License.  
+
